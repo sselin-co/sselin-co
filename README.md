@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shaya ✨
+### Hello 👋 I'm Shaya ✨
 
 Welcome to my GitHub! I'm a software developer with a passion for accessibility, fullstack development, and minimalist design.
 
