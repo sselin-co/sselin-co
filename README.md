@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a software developer with a passion for accessibility, fullstack development, and minimalist design.
 
-- 🔭 I’m currently employed as a Junior Web Developer at Osler, Hoskin, and Harcourt LLP, a leading national law firm. In April 2022, I will be a graduate of the computer science program at UBC Okanagan in Kelowna BC, Canada.
+- 🔭 I’m currently employed as a Junior Web Developer at Osler, Hoskin, and Harcourt LLP. In April 2022, I will be a graduate of the computer science program at UBC Okanagan in Kelowna BC, Canada.
 - 🌱 I’m currently studying the Microsoft 365 Platform to prepare for the M365 Associate Cloud Developer certification.
 
 
