@@ -3,6 +3,7 @@
 Welcome to my GitHub! I'm a software developer with a passion for accessibility, fullstack development, and minimalist design.
 
 - 🔭 I’m currently employed as a Junior Web Developer at Osler, Hoskin, and Harcourt LLP. In April 2022, I will be a graduate of the computer science program at UBC Okanagan in Kelowna BC, Canada.
+- 🌄 I recently accepted a full time offer as a Software Development Engineer with Amazon Canada in Vancouver, BC. 
 
 
 <!--
