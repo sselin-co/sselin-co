@@ -1,8 +1,8 @@
 ### Hello 👋 I'm Shaya ✨
 
-Welcome to my GitHub! I'm a software developer with a passion for accessibility, fullstack development, and minimalist design.
+Welcome to my GitHub! I'm a software engineer with a passion for accessibility, fullstack development, and minimalist design.
 
-- 🔭 I’m currently employed as a Junior Web Developer at Osler, Hoskin, and Harcourt LLP. In April 2022, I will be a graduate of the computer science program at UBC Okanagan in Kelowna BC, Canada.
+- 🔭 I’m currently employed as a Junior Web Developer at Osler, Hoskin, and Harcourt LLP. In April 2022, I will be a graduate of the computer science program at UBC Okanagan in Kelowna BC, Canada. I'll be starting as a full time Software Engineer at Amazon Canada in May, 2022.
 
 
 <!--
