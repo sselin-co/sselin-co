@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a software engineer with a passion for accessibility, fullstack development, and minimalist design.
 
-- 🔭 I’m a newly minted Software Engineer at Amazon and a recent graduate of UBCO.
+- 🔭 Currently, I’m a Software Development Engineer II at Amazon.
 
 
 <!--
